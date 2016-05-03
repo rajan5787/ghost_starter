@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/pre-dexed/debug/classes-90e8e7b94aaf46e4ff060767da44fa56d193b048.jar" />
+    </item>
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-3737e9a3a387cbf6e90c54989ce54e6bf50a829f.jar" />
+    </item>
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/pre-dexed/debug/classes-c0074f9330cf12ce6408b56679b591077260d7c7.jar" />
+    </item>
+    <item
+        jar="/home/rajan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/dddd/ghost_starter/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4a4e1b7f410ee4979d637af2a32a28e4a3d6e6da.jar" />
+    </item>
+
+</items>
